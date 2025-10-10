@@ -1,0 +1,119 @@
+:root {
+    --amarelo: #ffd700;
+    --dourado: #e8af3b;
+    --marrom: #403011;
+    --laranja: #cc914d;
+    --claro: #fffbea;
+}
+
+body {
+    background: linear-gradient(180deg, #fff9db, #fffbea);
+    color: var(--marrom);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    text-align: center;
+    padding: 40px 20px;
+    background: radial-gradient(circle, #fff5c2, #ffe47a);box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+h1 {
+    color: var(--dourado);
+    font-size: 3rem;
+    text-shadow: 2px 2px #fff;
+}
+
+h2 {
+    color: #cc914d;
+    border-bottom: 2px solid #e8af3b;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+mark {
+    background-color: #fff0a8;
+}
+
+b {
+    color: #cc914d;
+}
+
+ul, ol {
+    text-align: left;
+    max-width: 800px;
+    margin: auto;
+}
+
+p.extra {
+    background: #fff9c9;
+    padding: 10px;
+    border-left: 5px solid #e8af3b;
+    margin: 15px auto;
+    max-width: 800px;
+    border-radius: 5px;
+}
+
+img {
+    display: block;
+    margin: 15px auto;
+    border-radius: 10px;
+}
+
+.galeria {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+.galeria img {
+    width: 250px;
+    transition: transform 0.3s;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+}
+
+.galeria img:hover {
+    transform: scale(1.05);
+}
+
+form {
+    background-color: #fff5c2;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 700px;
+    margin: auto;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+}
+
+form input, select, button {
+    width: 100%;
+    padding: 8px;
+    margin: 8px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button {
+    background: #e8af3b;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+}
+
+button:hover {
+    background: #cc914d;
+}
+
+footer {
+    background: #e8af3b;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-weight: bold;
+}
