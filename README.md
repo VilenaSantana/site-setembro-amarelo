@@ -74,7 +74,7 @@ Se você gostou do projeto ou quer apoiar essa causa tão importante, compartilh
 
 ## 🧑‍💻 Autor
 
-Desenvolvido com carinho por **[Seu Nome ou Usuário do GitHub]**, como parte do meu processo de aprendizado em programação web.
+Desenvolvido com carinho por **[VilenaSantana]**, como parte do meu processo de aprendizado em programação web.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/VilenaSantana)
 
