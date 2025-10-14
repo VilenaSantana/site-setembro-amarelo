@@ -25,21 +25,6 @@ Este site foi concluído como atividade prática do curso introdutório de desen
 
 ---
 
-## 📸 Imagens do Projeto
-
-### 🧠 Página inicial
-![Imagem do site](./img/setembroamareloamarelo.png)
-
-### 🎗️ Laço Amarelo
-![Laço Amarelo](./img/lacoamarelo.png)
-
-### 🖼️ Galeria
-![Galeria](./img/foto1.jpg)
-![Galeria](./img/foto2.jpg)
-![Galeria](./img/foto3.jpg)
-
----
-
 ## 🔗 Acesse o site online
 
 Você pode visualizar o projeto hospedado aqui:  
